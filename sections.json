@@ -1,0 +1,12 @@
+{
+  "sections": {
+    "azkar":       { "name": "الأذكار",           "icon": "🤲", "visible": true },
+    "quiz":        { "name": "الكويز",            "icon": "📝", "visible": true },
+    "million":     { "name": "من سيربح المليون",  "icon": "💰", "visible": true },
+    "crossword":   { "name": "كلمات متقاطعة",     "icon": "🔤", "visible": true },
+    "summaries":   { "name": "الملخصات",          "icon": "📖", "visible": true },
+    "bac_prev":    { "name": "بكالوريات سابقة",   "icon": "📚", "visible": true },
+    "bac_trial":   { "name": "امتحانات تجريبية",  "icon": "📋", "visible": true },
+    "bac_foreign": { "name": "بكالوريات أجنبية",  "icon": "🌍", "visible": true }
+  }
+}
