@@ -1,0 +1,5 @@
+{
+  "bac_previous": { "name": "بكالوريات سابقة",  "items": [] },
+  "bac_trial":    { "name": "امتحانات تجريبية", "items": [] },
+  "bac_foreign":  { "name": "بكالوريات أجنبية", "items": [] }
+}
