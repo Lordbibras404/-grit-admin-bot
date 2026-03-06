@@ -1,0 +1,14 @@
+{
+  "math":        { "easy": [], "medium": [], "hard": [] },
+  "physics":     { "easy": [], "medium": [], "hard": [] },
+  "arabic":      { "easy": [], "medium": [], "hard": [] },
+  "history":     { "easy": [], "medium": [], "hard": [] },
+  "english":     { "easy": [], "medium": [], "hard": [] },
+  "islamic":     { "easy": [], "medium": [], "hard": [] },
+  "philosophy":  { "easy": [], "medium": [], "hard": [] },
+  "science":     { "easy": [], "medium": [], "hard": [] },
+  "french":      { "easy": [], "medium": [], "hard": [] },
+  "amazigh":     { "easy": [], "medium": [], "hard": [] },
+  "economics":   { "easy": [], "medium": [], "hard": [] },
+  "accounting":  { "easy": [], "medium": [], "hard": [] }
+}
