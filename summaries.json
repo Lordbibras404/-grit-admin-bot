@@ -1,0 +1,16 @@
+{
+  "subjects": {
+    "math":       { "name": "رياضيات",      "icon": "📐", "items": [] },
+    "physics":    { "name": "فيزياء",       "icon": "⚡", "items": [] },
+    "arabic":     { "name": "عربية",        "icon": "📝", "items": [] },
+    "history":    { "name": "تاريخ",        "icon": "🏛",  "items": [] },
+    "english":    { "name": "English",      "icon": "🌐", "items": [] },
+    "french":     { "name": "فرنسية",       "icon": "🇫🇷", "items": [] },
+    "islamic":    { "name": "إسلامية",      "icon": "☪️", "items": [] },
+    "philosophy": { "name": "فلسفة",        "icon": "💭", "items": [] },
+    "science":    { "name": "علوم طبيعية", "icon": "🔬", "items": [] },
+    "amazigh":    { "name": "أمازيغية",     "icon": "ⴰ",  "items": [] },
+    "economics":  { "name": "اقتصاد",       "icon": "📊", "items": [] },
+    "accounting": { "name": "محاسبة",       "icon": "🧾", "items": [] }
+  }
+}
